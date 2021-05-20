@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913941397397",
+    "firebase_url": "https://myapp-50c69.firebaseio.com",
+    "project_id": "myapp-50c69",
+    "storage_bucket": "myapp-50c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913941397397:android:a5579b52040ac48006809c",
+        "android_client_info": {
+          "package_name": "com.example.updatedop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913941397397-j0ajh6k527seut7676fieom69adt7grt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeeSO2fl73g338Vv3D1lssTd2VP5VWEvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913941397397-j0ajh6k527seut7676fieom69adt7grt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
